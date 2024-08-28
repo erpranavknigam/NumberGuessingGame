@@ -4,6 +4,10 @@
 --------------------------------------------------------------------------------------------------------------------------------------
 Welcome to the Number Guessing Game! This is a command-line game where you try to guess a randomly generated number between 1 and 100. The game offers different difficulty levels, each with a different number of allowed guesses.
 
+### Project URL
+[![Project Page](https://img.shields.io/badge/Project%20Page-Click%20Here-brightgreen)](https://roadmap.sh/projects/number-guessing-game)
+
+
 ## How to Play
 1. *Start the Game*: Run the program, and you will be welcomed with an introduction to the game.
 
@@ -64,8 +68,8 @@ Make sure you have Node.js installed on your machine.
 
 1. Clone this repository using:  
 ```
-* `git clone https://github.com/erpranavknigam/GitHubUserActivity.git`
-* `cd <repository-folder>`
+git clone https://github.com/erpranavknigam/NumberGuessingGame.git
+cd <repository-folder>
 ```
 2. Run the game using the following command:
     `node index.js`
